@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c_sharp_fundamentals_note", "c_sharp_fundamentals_note\c_sharp_fundamentals_note.csproj", "{DB7D48E9-89AC-4D5B-B154-D92B5030DFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB7D48E9-89AC-4D5B-B154-D92B5030DFCC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DB7D48E9-89AC-4D5B-B154-D92B5030DFCC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DB7D48E9-89AC-4D5B-B154-D92B5030DFCC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DB7D48E9-89AC-4D5B-B154-D92B5030DFCC}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
